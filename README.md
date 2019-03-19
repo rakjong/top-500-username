@@ -9,4 +9,4 @@
 
 ![Image text](https://github.com/rakjong/top-500-username/blob/master/images/xiaoguo.png)
 
-![Image text](javascript:alert(1))
+![Image text](www.baidu.com)
