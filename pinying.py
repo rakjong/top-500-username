@@ -3,7 +3,7 @@
 from pypinyin import pinyin, lazy_pinyin
 
 def rename():
-    f1 = open('C:\\Users\\Yisihe\\Desktop\\hanzi.txt','r+')
+    f1 = open('C:\\Users\\xxx\\Desktop\\hanzi.txt','r+')
     for line in f1:
         pin1 = lazy_pinyin(f1)
         pin2 = []
